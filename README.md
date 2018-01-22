@@ -1,2 +1,6 @@
-# react-skeleton-saga
-React skeleton using react saga
+# react-setup-w3
+React setup with webpack 3
+
+#### take a pull
+#### npm install
+#### npm start
